@@ -1,0 +1,31 @@
+_repo: Five-Little-Plays_14519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sutro, Alfred
+    alias: Sutro, Alfredo
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '1460'
+    url: http://www.gutenberg.org/2009/agents/1460
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 20th century'
+- !lcc 'PR'
+tableOfContents: "The man in the stalls\r\nA marriage has been arranged....\r\nThe\
+  \ man on the kerb\r\nThe open door\r\nThe bracelet."
+title: Five Little Plays
+url: http://www.gutenberg.org/ebooks/14519
