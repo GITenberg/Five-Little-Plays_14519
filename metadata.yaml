@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1460
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14519#Five-Little-Plays
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2004-12-29'
 gutenberg_type: Text
